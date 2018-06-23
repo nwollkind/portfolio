@@ -1,0 +1,19 @@
+baseURL = "http://natashowl.com/"
+languageCode = "en-us"
+title = "NatashOwl"
+theme = "introduction"
+
+[params]
+    themeStyle = "light"
+    firstName = "Natasha"
+    footerText = "."
+    avatar = "birdteeth.png"
+
+
+[[params.social]]
+    url = "https://linkedin.com/in/nwollkind"
+    icon = "linkedin"
+
+[[params.social]]
+    url = "https://instagram.com/bird.teeth"
+    icon = "instagram"
