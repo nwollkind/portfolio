@@ -2,6 +2,7 @@ baseURL = "http://natashowl.com/"
 languageCode = "en-us"
 title = "NatashOwl"
 theme = "introduction"
+staticDir = ["static", "favicons"]
 
 [params]
     themeStyle = "light"
