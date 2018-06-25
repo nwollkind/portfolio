@@ -1,6 +1,6 @@
 <div class="container">
     <!-- Begin Projects container -->
-    <h2 class="title is-2 has-text-centered">Projects</h2>
+    <h2 class="title is-2 has-text-centered">Art</h2>
 
     <div class="section is-small">
         <div class="columns is-multiline">
@@ -40,9 +40,6 @@
         <header class="modal-card-header bottom-pad">
             <p class="modal-card-title has-text-centered">{{ . }}</p>
         </header>
-        {{ end }}
-        {{ if .Params.image }}
-            <img src="{{ .Params.image | relURL }}" class="img-responsive img-centered">
         {{ end }}
         {{ if .Content }}
         <section class="modal-card-body markdown">

@@ -6,8 +6,11 @@ theme = "introduction"
 [params]
     themeStyle = "light"
     firstName = "Natasha"
-    footerText = "."
-    avatar = "birdteeth.png"
+    footerText = "Copyright © 2018 Natasha Wollkind"
+    avatar = "birdswithteeth/birdteeth_print.png"
+    showProjects = true
+    projectColumns = "2"
+    customCSS = ["tweaks.css"]
 
 
 [[params.social]]
