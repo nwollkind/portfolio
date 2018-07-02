@@ -26,3 +26,5 @@ weight: 300
 ![](creatures/redwolf2.png)
 ![](creatures/saluki.jpg)
 ![](creatures/whiterabbit.jpg)
+![](creatures/fairyring.png)
+![](creatures/lightguardian.png)
